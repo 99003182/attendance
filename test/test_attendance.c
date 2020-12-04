@@ -35,7 +35,7 @@ int main() {
   return 0;
 }
 /* Write all the test functions */
-void test_do_exit(void){
+void test_do_exita(void){
   CU_ASSERT_EQUAL(0,exit());
 }
 
